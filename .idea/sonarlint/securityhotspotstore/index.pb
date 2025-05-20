@@ -9,3 +9,5 @@ Q
 !contracts/migration-tracking.clar,e/4/e425f2f786ba4a1033f978881b8cad4df9e32246
 I
 contracts/monitoring.clar,7/4/74d7af61220a25e85c6e518662c88b638dde4a11
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
