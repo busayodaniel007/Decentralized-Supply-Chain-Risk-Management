@@ -7,3 +7,5 @@ R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
 Q
 !contracts/migration-tracking.clar,e/4/e425f2f786ba4a1033f978881b8cad4df9e32246
+I
+contracts/monitoring.clar,7/4/74d7af61220a25e85c6e518662c88b638dde4a11
